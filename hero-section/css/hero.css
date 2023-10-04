@@ -106,6 +106,26 @@ a {
   text-decoration: none;
 }
 
+/* styled footer */
+footer {
+  padding: auto;
+
+  background-color: silver;
+}
+
+/* styled footer p */
+footer p {
+  text-align: left;
+  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+
+  padding: auto;
+
+  background-color: silver;
+}
+
+
 /* NAVIGATION.CSS */
 /*styling nav */
 nav {
@@ -156,6 +176,39 @@ input:checked + ul {
 nav a {
   color: white;
 }
+
+/* styled social navbar */
+.social-nav {
+  margin: auto;
+
+  display: flex;
+  justify-content: flex-start;
+
+  gap: 2rem;
+
+  color: white;
+}
+
+/* styled social nav ul */
+.social-nav ul {
+  list-style: none;
+
+  display: flex;
+  justify-content: flex-start;
+
+  gap: 1rem;
+}
+
+/* added color to social nav icons */
+.social-nav a {
+  color: black;
+}
+
+/* made hover for social navbar */
+.social-nav li:hover {
+  transform: scale(1.5);
+}
+
 
 /* used different color for nav */
 @media (color) {
