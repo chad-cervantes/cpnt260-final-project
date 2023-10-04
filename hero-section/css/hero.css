@@ -9,14 +9,15 @@ body {
 }
 
 /* styling title */
-/* .background-image {
+header {
   background-image: url('projects\CPNT-260\cpnt260-final-project\hero-section\images\hero-section-background-image.png'); 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 
+  width: 100vw;
   height: 100vh;  
-} */
+}
 
 /* styled main */
 main {
@@ -34,24 +35,14 @@ h1 {
 }
 
 /* styled h2 */
-h2 {
+h3{
   margin: 0;
 
   text-align: center;
 }
 
-/* styled h3 */
-h3 {
-  color: #fdeea6;
-
-  text-align: center;
-
-  max-width: 40ch;
-  margin: auto;
-}
-
 /* styled single card */
-.piano-card {
+.buy-card {
   max-width: 40ch;
   padding: 10px;
   margin: auto;
@@ -69,14 +60,16 @@ label {
 
 /* styled logo */
 .logo {
-  width: 50px;
-  height: 50px;
+  /* width: 50px;
+  height: 50px; */
 
   display: block;
 
   padding: 1rem;
 
   align-items: center;
+
+  color: white;
 }
 
 /* styled button */
