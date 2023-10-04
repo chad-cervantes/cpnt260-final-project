@@ -193,6 +193,9 @@ nav a {
   label {
     display: none;
   }
+
+  input:checked + ul {
+    display: none;
 }
 
 /* TYPOGRAPHY.CSS */
