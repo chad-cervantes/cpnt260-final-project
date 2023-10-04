@@ -1,4 +1,4 @@
-/* layout.css */
+/* LAYOUT.CSS */
 /* styling body */
 body {
   font-size: 30px;
@@ -10,7 +10,7 @@ body {
 
 /* styling title */
 header {
-  background: url("../images/hero-section-background-image.png"); 
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url("../images/hero-section-background-image.png"); 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,7 +113,7 @@ a {
   }
 } */
 
-/* navigation.css */
+/* NAVIGATION.CSS */
 /*styling nav */
 nav {
   display: flex;
@@ -195,3 +195,54 @@ nav a {
   }
 }
 
+/* TYPOGRAPHY.CSS */
+
+/* styling h1 typography */
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+
+  color: whitesmoke;
+  
+  margin-top: 170px;
+}
+
+/* styled h3 typography */
+h3 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+
+  color: whitesmoke;
+}
+
+/* styled button typography */
+button {
+  font-size: 20px;
+}
+
+/* styled label */
+label {
+  font-family: 'Noto Music', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+/* styled nav ul typography */
+nav ul {
+  font-size: 20px;
+}
+
+/* styled nav buttons typography */
+nav a {
+  font-family: 'Noto Music', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* to make it mobile friendly */
+@media (width > 50rem) {
+  h1 {
+    font-size: 100px;   
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+}
