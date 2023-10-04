@@ -1,0 +1,204 @@
+/* layout.css */
+/* styling body */
+body {
+  font-size: 30px;
+
+  margin: auto;
+
+  line-height: 1.5;
+}
+
+/* styling title */
+/* .background-image {
+  background-image: url('projects\CPNT-260\cpnt260-final-project\hero-section\images\hero-section-background-image.png'); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 100vh;  
+} */
+
+/* styled main */
+main {
+  text-align: center;
+}
+
+/* styled h1 */
+h1 {
+  padding: 10px;
+  margin: 0;
+
+  text-align: center;
+
+  max-width: 85ch;
+}
+
+/* styled h2 */
+h2 {
+  margin: 0;
+
+  text-align: center;
+}
+
+/* styled h3 */
+h3 {
+  color: #fdeea6;
+
+  text-align: center;
+
+  max-width: 40ch;
+  margin: auto;
+}
+
+/* styled single card */
+.piano-card {
+  max-width: 40ch;
+  padding: 10px;
+  margin: auto;
+  margin-top: 30px;
+
+  color: black;
+}
+
+/* styled label */
+label {
+  color: white;
+
+  padding: 1rem;
+}
+
+/* styled logo */
+.logo {
+  width: 50px;
+  height: 50px;
+
+  display: block;
+
+  padding: 1rem;
+
+  align-items: center;
+}
+
+/* styled button */
+button {
+  padding: 15px 30px 15px 30px;
+  margin: auto;
+  margin-top: 30px;
+  width: auto;
+
+  display: flex;
+  align-items: center;
+
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e9dfad;
+
+  background-color: #e9dfad;
+}
+
+/* colored sign up */
+button:active {
+  color: orangered;
+}
+
+/* styled button */
+button:hover {
+  filter: drop-shadow(5px 5px 5px gold);
+  
+  background-color: #d7c6ab;
+}
+
+/* deleted underline */
+a {
+  text-decoration: none;
+}
+
+/* used this for text color contrast */
+/* @media (width > 50rem) {
+  header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url(https://picsum.photos/id/1082/1500/900);   
+  }
+} */
+
+/* navigation.css */
+/*styling nav */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  background-color: black;
+
+  max-width: auto;
+}
+
+/* styling navbar*/
+ nav ul {
+  padding: 1rem;
+ 
+  list-style: none;
+
+  background-color: black;
+ 
+  /* display: block;
+  justify-content: center; */
+  display: none;
+  
+  gap: 1rem;
+
+  margin: 0;
+ }
+
+/* nav hover */
+nav a:hover {
+  background-color: lightsalmon;
+  
+  padding: 0.5rem 0.5rem 01rem 0.5rem;
+}
+
+/* for label */
+input {
+  display: none;
+}
+
+/* ensures no checkboxes */
+input:checked + ul {
+  display: block;
+}
+
+/* nav buttons */
+nav a {
+  color: white;
+}
+
+/* used different color for nav */
+@media (color) {
+  nav {
+    background-color: #1d2732;
+  } 
+  nav ul {
+    background-color: #1d2732;
+  }
+}
+
+/* to make it mobile friendly */
+@media (min-width: 50rem) {
+  nav ul {
+    display: flex;
+    justify-content: flex-end;  
+    align-items: center;
+  }
+}
+
+/*needed to make side navbar for mobile */
+@media screen and (width > 40rem) {
+  nav ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  label {
+    display: none;
+  }
+}
+
