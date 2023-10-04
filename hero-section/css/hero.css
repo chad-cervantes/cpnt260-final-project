@@ -106,13 +106,6 @@ a {
   text-decoration: none;
 }
 
-/* used this for text color contrast */
-/* @media (width > 50rem) {
-  header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)), url(https://picsum.photos/id/1082/1500/900);   
-  }
-} */
-
 /* NAVIGATION.CSS */
 /*styling nav */
 nav {
@@ -196,13 +189,14 @@ nav a {
 
   input:checked + ul {
     display: none;
+  }
 }
 
 /* TYPOGRAPHY.CSS */
 
 /* styling h1 typography */
 h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
   font-size: 50px;
 
   color: whitesmoke;
@@ -225,7 +219,7 @@ button {
 
 /* styled label */
 label {
-  font-family: 'Noto Music', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
 }
 
@@ -236,11 +230,11 @@ nav ul {
 
 /* styled nav buttons typography */
 nav a {
-  font-family: 'Noto Music', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
 
 /* to make it mobile friendly */
-@media (width > 50rem) {
+@media (width > 40rem) { 
   h1 {
     font-size: 100px;   
   }
@@ -249,3 +243,5 @@ nav a {
     font-size: 30px;
   }
 }
+  
+ 
