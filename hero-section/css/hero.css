@@ -108,14 +108,16 @@ a {
 
 /* styled footer */
 footer {
-  padding: auto;
+  padding: 20px;
+
+  margin: auto;
 
   background-color: silver;
 }
 
 /* styled footer p */
 footer p {
-  text-align: left;
+  text-align: center;
   
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 20px;
@@ -182,11 +184,7 @@ nav a {
   margin: auto;
 
   display: flex;
-  justify-content: flex-start;
-
-  gap: 2rem;
-
-  color: white;
+  justify-content: center;
 }
 
 /* styled social nav ul */
