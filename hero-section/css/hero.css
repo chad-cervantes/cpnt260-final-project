@@ -10,7 +10,7 @@ body {
 
 /* styling title */
 header {
-  background-image: url('projects\CPNT-260\cpnt260-final-project\hero-section\images\hero-section-background-image.png'); 
+  background: url("../images/hero-section-background-image.png"); 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
