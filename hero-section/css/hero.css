@@ -175,7 +175,7 @@ nav {
 
 /* nav hover */
 nav a:hover {
-  background-color: lightsalmon;
+  color: yellowgreen;
   
   padding: 0.5rem 0.5rem 01rem 0.5rem;
 }
