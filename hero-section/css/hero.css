@@ -149,6 +149,8 @@ nav {
   background-color: black;
 
   max-width: auto;
+
+  padding-right: 15px;
 }
 
 /* styling navbar*/
