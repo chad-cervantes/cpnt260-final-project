@@ -162,10 +162,6 @@ nav {
  
   list-style: none;
 
-  /* background-color: black; */
- 
-  /* display: block;
-  justify-content: center; */
   display: none;
   
   gap: 1rem;
@@ -176,8 +172,6 @@ nav {
 /* nav hover */
 nav a:hover {
   color: yellowgreen;
-  
-  padding: 0.5rem 0.5rem 01rem 0.5rem;
 }
 
 /* for label */
