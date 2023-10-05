@@ -65,7 +65,10 @@ label {
   width: auto;
   height: 5vh;
 
-  display: block;
+  /* display: block; */
+  display: flex;
+  justify-content: center;
+  float: center;
 
   padding: 1rem;
 
@@ -146,7 +149,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   
-  background-color: black;
+  /* background-color: black; */
 
   max-width: auto;
 
@@ -159,7 +162,7 @@ nav {
  
   list-style: none;
 
-  background-color: black;
+  /* background-color: black; */
  
   /* display: block;
   justify-content: center; */
@@ -230,10 +233,10 @@ nav a {
 /* used different color for nav */
 @media (color) {
   nav {
-    background-color: #1d2732;
+    background-color: #1f1f20;
   } 
   nav ul {
-    background-color: #1d2732;
+    background-color: #1f1f20;
   }
 }
 
@@ -247,7 +250,7 @@ nav a {
 }
 
 /*needed to make side navbar for mobile */
-@media screen and (width > 40rem) {
+@media screen and (width > 50rem) {
   nav ul {
     display: flex;
     justify-content: space-evenly;
