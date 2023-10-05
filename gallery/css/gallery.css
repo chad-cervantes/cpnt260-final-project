@@ -64,7 +64,14 @@ article img {
   object-fit: cover;
 }
 
+/* re-sized gyuto image */
 .gyuto {
+  width: 17rem;
+  height: 25vh;
+}
+
+/* re-sized santoku image */
+.santoku {
   width: 17rem;
   height: 25vh;
 }
