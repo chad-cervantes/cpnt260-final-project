@@ -17,7 +17,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
 
-  width: 100vw;
+  /* width: 100vw; */
   height: 100vh;  
 }
 
@@ -113,11 +113,11 @@ a {
 
 /* styled footer */
 footer {
-  padding: 1rem;
+  padding: auto;
 
   margin: auto;
 
-  /* background-color: silver; */
+  /* background-color: #646366; */
 
   height: 25px;
 
@@ -128,17 +128,24 @@ footer {
 
 /* styled footer p */
 footer p {
-  text-align: center;
+  text-align: left;
   
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 20px;
+  font-size: 15px;
 
   padding: auto;
 
-  /* background-color: silver; */
+  /* background-color: #646366; */
   min-height: 100%;
 
   margin-bottom: -20px;
+}
+
+.follow {
+  display: flex;
+  justify-content: flex-end;
+
+  align-items: center;
 }
 
 
@@ -194,7 +201,7 @@ nav a {
   margin: auto;
 
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 
   height: 15px;
 
