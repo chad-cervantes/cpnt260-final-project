@@ -12,3 +12,4 @@ Hero Section CSS Images
 
 Gallery CSS Images for cards
 - [Gyuto image card](https://www.chefslocker.co.uk/store/p87/WASakai.html)
+- [Santoku image card](https://www.justonecookbook.com/your-guide-to-japanese-knives/)
