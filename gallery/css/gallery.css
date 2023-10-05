@@ -9,6 +9,8 @@ section {
 /* THEME.CSS */
 * {
   box-sizing: border-box;
+
+  outline: 1px solid red;
 }
 
 
@@ -28,8 +30,8 @@ h1 {
 }
 
 article {
-  width: 50%;
-  height: 75%;
+  width: 30%;
+  height: 55%;
 
   margin: auto;
 
@@ -62,24 +64,61 @@ article img {
 
   aspect-ratio: 0.5;
   object-fit: cover;
+
+  border: solid;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
 }
 
 /* re-sized gyuto image */
 .gyuto {
-  width: 17rem;
-  height: 25vh;
+  /* width: 10rem; */
+  /* height: 15vh; */
+
+  width: 50%;
+  height: 75%;
 }
 
 /* re-sized santoku image */
 .santoku {
-  width: 17rem;
-  height: 25vh;
+  width: 10rem;
+  height: 15vh;
 }
 
 /* re-sized nakiri image */
 .nakiri{
-  width: 17rem;
-  height: 25vh;
+  width: 10rem;
+  height: 15vh;
+}
+
+/* to make it mobile friendly */
+@media (width > 50rem) { 
+  article {
+    width: 50%;
+    height: 75%;
+  }
+
+  .gyuto {
+    /* width: 17rem; */
+    /* height: 25vh; */
+    width: 100%;
+    height: 50%;
+  }
+
+  .santoku {
+    /* width: 17rem; */
+    /* height: 25vh; */
+    width: 100%;
+    height: 50%;
+    
+  }
+  
+  .nakiri{
+    /* width: 17rem;
+    height: 25vh;   */
+    width: 100%;
+    height: 50%;
+  }
 }
 
 /* NAVIGATION.CSS */
