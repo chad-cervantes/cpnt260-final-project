@@ -76,6 +76,12 @@ article img {
   height: 25vh;
 }
 
+/* re-sized nakiri image */
+.nakiri{
+  width: 17rem;
+  height: 25vh;
+}
+
 /* NAVIGATION.CSS */
 /*styling nav */
 nav {
