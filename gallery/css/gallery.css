@@ -3,5 +3,61 @@
 section {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
+  gap: 1rem;
+}
+
+/* THEME.CSS */
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #858585;
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  text-align: center;
+}
+
+article {
+  width: 50%;
+  height: 75%;
+
+  margin: auto;
+
+  background-color: burlywood;
+  
+  border: 1px solid black;
+
+  padding: 1rem;
+}
+
+
+article h2, h3, p{
+  margin: auto;
+ 
+  text-align: center;
+}
+
+article h3 {
+  font-size: medium;
+}
+
+
+article img {
+  display: block;
+  
+  width: 50%;
+  height: 60%;
+
+  aspect-ratio: 0.5;
+  object-fit: cover;
 }
