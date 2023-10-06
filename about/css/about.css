@@ -10,7 +10,13 @@ h2 {
   text-align: center;
 }
 
-video {
+.video-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video {
   display: flex;
   justify-content: center;
   align-items: center;
