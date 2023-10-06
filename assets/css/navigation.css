@@ -4,7 +4,7 @@
   height: 50px;
   object-fit: cover;
 
-  display: flex;
+  display: inline-block;
 
   padding: 1rem;
 
