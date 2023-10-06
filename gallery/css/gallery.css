@@ -55,7 +55,7 @@ article h2, h3, p{
 
   font-size: medium;
 
-  min-width: 15ch;
+  min-width: 5ch;
 
   overflow: hidden;
 }
@@ -231,14 +231,14 @@ article h2 {
 /* styled h3 typography */
 article h3 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 25px;
+  font-size: 20px;
 
   color: black;
 }
 
 article p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 /* styled label */
