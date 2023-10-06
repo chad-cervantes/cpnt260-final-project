@@ -78,7 +78,7 @@ article img {
 
 /* re-sized images */
 .gyuto, .santoku, .nakiri {
-  width: 80%;
+  width: 90%;
   height: 70%;
 
   margin: auto;
@@ -98,7 +98,7 @@ article img {
   }
 
   .gyuto, .santoku, .nakiri {
-    height: 75%;
+    height: 70%;
     width: 100%;
   }
 }
