@@ -21,3 +21,19 @@ h2 {
   justify-content: center;
   align-items: center;
 }
+
+/* styled label */
+label {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+/* styled nav ul typography */
+nav ul {
+  font-size: 20px;
+}
+
+/* styled nav buttons typography */
+nav a {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
