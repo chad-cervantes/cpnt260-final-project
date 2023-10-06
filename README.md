@@ -14,3 +14,6 @@ Gallery CSS Images for cards
 - [Gyuto image card](https://www.chefslocker.co.uk/store/p87/WASakai.html)
 - [Santoku image card](https://www.justonecookbook.com/your-guide-to-japanese-knives/)
 - [Nakiri image card](https://www.koiknives.com/blogs/japanese-knives/santoku-vs-nakiri-knives-which-one-is-right-for-you)
+
+About Section video
+- [Japanese knife manufacturing process video](https://www.youtube.com/embed/Q-8dnpiEePk)
