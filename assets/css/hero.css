@@ -89,11 +89,6 @@ button:hover {
   background-color: #d7c6ab;
 }
 
-/* deleted underline */
-a {
-  text-decoration: none;
-}
-
 /* styled footer */
 footer {
   padding: auto;
