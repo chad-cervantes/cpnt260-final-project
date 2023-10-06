@@ -73,24 +73,8 @@ article img {
   white-space: pre-wrap;
 }
 
-/* re-sized gyuto image */
-.gyuto {
-  width: 17rem;
-  height: 25vh;
-
-  margin: auto;
-}
-
-/* re-sized santoku image */
-.santoku {
-  width: 17rem;
-  height: 25vh;
-
-  margin: auto;
-}
-
-/* re-sized nakiri image */
-.nakiri{
+/* re-sized images */
+.gyuto, .santoku, .nakiri {
   width: 17rem;
   height: 25vh;
 
