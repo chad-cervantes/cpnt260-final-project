@@ -105,19 +105,9 @@ article img {
     gap: 1rem;
   }
 
-  .gyuto {
-    height: 75%;
-    max-width: 100%;
-  }
-
-  .santoku {
-    height: 75%;
-    max-width: 100%;
-  }
-
-  .nakiri {
-    height: 75%;
-    max-width: 100%;
+  .gyuto, .santoku, .nakiri {
+    height: 65%;
+    width: 100%;
   }
 }
 
@@ -263,11 +253,6 @@ article h3 {
 article p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 15px;
-}
-
-/* styled button typography */
-button {
-  font-size: 20px;
 }
 
 /* styled label */
