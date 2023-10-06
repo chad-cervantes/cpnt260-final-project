@@ -57,14 +57,14 @@ article h2, h3, p{
 
   font-size: medium;
 
-  white-space: pre-wrap;
+  min-width: 15ch;
 }
 
 article img {
   display: block;
   
   width: 85%;
-  height: 65%;
+  height: 70%;
 
   aspect-ratio: 0.5;
   object-fit: cover;
