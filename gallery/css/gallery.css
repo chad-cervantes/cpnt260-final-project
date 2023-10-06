@@ -21,7 +21,7 @@ section {
 
 
 body {
-  background-color: #858585;
+  /* background-color: #858585; */
   
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
@@ -34,17 +34,15 @@ h1 {
 }
 
 article {
-  width: 75%;
-  height: 55%;
+  width: 100%;
+  height: 450px;
   margin: auto;
 
-  background-color: whitesmoke;
+  /* background-color: whitesmoke; */
   
   border: 1px solid black;
 
   padding: 1rem;
-
-  position: sticky;
 
   text-align: center;
 }
@@ -69,18 +67,20 @@ article img {
   aspect-ratio: 0.5;
   object-fit: cover;
 
-  border: solid;
-  border-radius: 10%;
+  /* border: solid;
+  border-radius: 10%; */
 
   white-space: pre-wrap;
 }
 
 /* re-sized images */
 .gyuto, .santoku, .nakiri {
-  width: 17rem;
-  height: 25vh;
+  width: 80%;
+  height: 70%;
 
   margin: auto;
+
+  display: block;
 }
 
 /* to make it mobile friendly */
@@ -89,10 +89,13 @@ article img {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
+    padding: 1rem;
+
+    background-color: white;
   }
 
   .gyuto, .santoku, .nakiri {
-    height: 65%;
+    height: 75%;
     width: 100%;
   }
 }
@@ -220,7 +223,7 @@ h1 {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
   font-size: 100px;
 
-  color: whitesmoke;
+  color: black;
 }
 
 article h2 {
