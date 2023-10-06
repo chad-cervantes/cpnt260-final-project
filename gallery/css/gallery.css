@@ -30,8 +30,6 @@ body {
 
 
 h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
   text-align: center;
 }
 
@@ -141,6 +139,8 @@ nav {
  
   list-style: none;
 
+  text-decoration: none;
+
   display: none;
   
   gap: 1rem;
@@ -237,3 +237,65 @@ nav a {
     display: none;
   }
 }
+
+/* TYPOGRAPHY.CSS */
+/* styling h1 typography */
+h1 {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-size: 100px;
+
+  color: whitesmoke;
+}
+
+article h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 35px;;
+}
+
+/* styled h3 typography */
+article h3 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+
+  color: black;
+}
+
+article p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+}
+
+/* styled button typography */
+button {
+  font-size: 20px;
+}
+
+/* styled label */
+label {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+/* styled nav ul typography */
+nav ul {
+  font-size: 20px;
+}
+
+/* styled nav buttons typography */
+nav a {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+/* to make it mobile friendly */
+@media (width > 40rem) { 
+  h1 {
+    font-size: 100px;   
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+}
+  
+ 
+
