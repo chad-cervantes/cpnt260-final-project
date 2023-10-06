@@ -17,9 +17,9 @@ section {
   box-sizing: border-box;
 
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
   
-  white-space: wrap;
+  /* white-space: wrap; */
 }
 
 
@@ -27,16 +27,9 @@ body {
   /* background-color: #858585; */
   
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 20px;
+  /* font-size: 20px; */
   line-height: 1.5;
 }
-
-/* styled logo */
-.logo {
-  width: auto;
-  height: 5vh;
-}
-
 
 h1 {
   text-align: center;
