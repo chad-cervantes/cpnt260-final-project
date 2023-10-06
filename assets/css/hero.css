@@ -60,23 +60,6 @@ label {
   padding: 1rem;
 }
 
-/* styled logo */
-.logo {
-  width: auto;
-  height: 5vh;
-
-  /* display: block; */
-  display: flex;
-  justify-content: center;
-  float: center;
-
-  padding: 1rem;
-
-  align-items: center;
-
-  color: white;
-}
-
 /* styled button */
 button {
   padding: 15px 30px 15px 30px;

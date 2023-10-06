@@ -1,3 +1,20 @@
+/* styled logo */
+.logo {
+  width: auto;
+  height: 5vh;
+
+  /* display: block; */
+  display: flex;
+  justify-content: center;
+  float: center;
+
+  padding: 1rem;
+
+  align-items: center;
+
+  color: white;
+}
+
 /*styling nav */
 nav {
   display: flex;
