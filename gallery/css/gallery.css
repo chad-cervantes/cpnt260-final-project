@@ -7,14 +7,16 @@ section {
 
   display: flex;
   flex-wrap: wrap;
-  
 }
 
 /* THEME.CSS */
 * {
   box-sizing: border-box;
 
-  outline: 1px solid red;
+  margin: 0;
+  padding: 0;
+  
+  white-space: wrap;
 }
 
 
@@ -35,7 +37,7 @@ h1 {
 
 article {
   width: 75%;
-  height: 65%;
+  height: 55%;
   margin: auto;
 
   background-color: burlywood;
@@ -43,6 +45,8 @@ article {
   border: 1px solid black;
 
   padding: 1rem;
+
+  position: sticky;
 }
 
 
@@ -52,12 +56,14 @@ article h2, h3, p{
   text-align: center;
 
   font-size: medium;
+
+  white-space: pre-wrap;
 }
 
 article img {
   display: block;
   
-  width: 55%;
+  width: 85%;
   height: 65%;
 
   aspect-ratio: 0.5;
@@ -65,6 +71,8 @@ article img {
 
   border: solid;
   border-radius: 10%;
+
+  white-space: pre-wrap;
 }
 
 /* re-sized gyuto image */
@@ -97,6 +105,21 @@ article img {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
+  }
+
+  .gyuto {
+    height: 75%;
+    max-width: 100%;
+  }
+
+  .santoku {
+    height: 75%;
+    max-width: 100%;
+  }
+
+  .nakiri {
+    height: 75%;
+    max-width: 100%;
   }
 }
 
