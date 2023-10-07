@@ -12,3 +12,8 @@ label {
 nav a {
   font-family: 'Noto Sans JP', sans-serif;
 }
+
+/* styled footer p */
+footer p {
+  font-family: 'Noto Sans JP', sans-serif;
+}
