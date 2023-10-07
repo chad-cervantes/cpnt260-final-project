@@ -76,7 +76,7 @@ article img {
 }
 
 /* re-sized images */
-.gyuto, .santoku, .nakiri, .bunka, .petty, .usuba, .deba {
+.gyuto, .santoku, .nakiri, .bunka, .petty, .usuba, .deba, .yanagiba {
   width: 90%;
   height: 70%;
 
@@ -96,7 +96,7 @@ article img {
     background-color: white;
   }
 
-  .gyuto, .santoku, .nakiri, .bunka, .petty, .usuba, .deba {
+  .gyuto, .santoku, .nakiri, .bunka, .petty, .usuba, .deba, .yanagiba{
     height: 70%;
     width: 100%;
   }
