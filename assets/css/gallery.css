@@ -64,6 +64,7 @@ article h2, h3, p{
   margin-bottom: 7px;
 }
 
+
 article img {
   display: block;
   
@@ -121,13 +122,13 @@ h1 {
 }
 
 article h2 {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 30px;
 }
 
 /* styled h3 typography */
 article h3 {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
   font-size: 20px;
 
   line-height: 1.3;
