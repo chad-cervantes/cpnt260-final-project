@@ -135,6 +135,8 @@ article p {
 label {
   font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
+
+  color: white;
 }
 
 /* styled nav ul typography */
@@ -150,7 +152,7 @@ nav a {
 /* to make it mobile friendly */
 @media (width > 50rem) { 
   h1 {
-    font-size: 100px;   
+    font-size: 80px;   
   }
 
   article h3 {
