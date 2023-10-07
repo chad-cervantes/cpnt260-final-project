@@ -1,0 +1,36 @@
+/* styled footer */
+footer {
+  padding: auto;
+
+  margin: auto;
+
+  /* background-color: #646366; */
+
+  height: 25px;
+
+  min-height: 100%;
+
+  margin-bottom: -40px;
+}
+
+/* styled footer p */
+footer p {
+  text-align: left;
+  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 15px;
+
+  padding: auto;
+
+  /* background-color: #646366; */
+  min-height: 100%;
+
+  margin-bottom: -20px;
+}
+
+.follow {
+  display: flex;
+  justify-content: flex-end;
+
+  align-items: center;
+}
