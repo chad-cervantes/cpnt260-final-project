@@ -110,7 +110,7 @@ article img {
 /* styling h1 typography */
 h1 {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
-  font-size: 100px;
+  font-size: 50px;
 
   color: black;
 }
@@ -156,7 +156,7 @@ nav a {
 /* to make it mobile friendly */
 @media (width > 50rem) { 
   h1 {
-    font-size: 80px;   
+    font-size: 100px;   
   }
 
   article h3 {
