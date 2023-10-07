@@ -79,6 +79,11 @@ article img {
   white-space: pre-wrap;
 }
 
+/* made gallery class */
+.gallery {
+  background-color: green;
+}
+
 /* re-sized images */
 .gyuto, .santoku, .nakiri, .bunka, .petty, .usuba, .deba, .yanagiba, .garasuki, .sujihiki, .kiritsuke, .burja {
   width: 90%;
