@@ -93,7 +93,7 @@ button:hover {
 
 /* styling h1 typography */
 h1 {
-  font-family: 'Noto Sans JP', sans-serif;
+  /* font-family: 'Noto Sans JP', sans-serif; */
   font-size: 50px;
 
   color: white;
@@ -126,9 +126,9 @@ nav ul {
 }
 
 /* styled nav buttons typography */
-nav a {
+/* nav a {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
-}
+} */
 
 /* to make it mobile friendly */
 @media (width > 40rem) { 
