@@ -15,7 +15,7 @@ footer {
 
 /* styled footer p */
 footer p {
-  text-align: left;
+  text-align: center;
   
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 15px;
@@ -25,6 +25,6 @@ footer p {
   /* background-color: #646366; */
   min-height: 100%;
 
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 
