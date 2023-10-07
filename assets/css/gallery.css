@@ -60,6 +60,8 @@ article h2, h3, p{
   min-width: 5ch;
 
   overflow: hidden;
+
+  margin-bottom: 7px;
 }
 
 article img {
