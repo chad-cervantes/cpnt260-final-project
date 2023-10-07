@@ -96,7 +96,7 @@ h1 {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
   font-size: 50px;
 
-  color: gold;
+  color: white;
   
   margin-top: 170px;
 }
@@ -106,7 +106,7 @@ h3 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 15px;
 
-  color: rgb(31, 20, 20);
+  color: whitesmoke;
 }
 
 /* styled button typography */
