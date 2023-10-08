@@ -23,7 +23,7 @@ p {
 }
 
 /* container */
-.h2-titles {
+.our-story {
   width: 100%;
   padding: 1rem;
 
@@ -39,7 +39,7 @@ p {
   
 
 @media (width > 50rem) {
-.h2-titles, .h3-contents {
+.our-story, .h3-contents {
   width: 50%;
  }
 
