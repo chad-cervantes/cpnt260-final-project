@@ -37,14 +37,14 @@ a {
   text-decoration: none;
 }
 
-/* nav hover */
+/* primary nav hover */
 nav a:hover {
   background-color: darkgoldenrod;
 }
 
+/* primary nav active */
 nav a:active {
-  background-color: #fbdd64;
-  opacity: 0.5;
+  background-color: darkorange;
 }
 
 /* for label */
