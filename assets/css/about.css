@@ -22,9 +22,26 @@ p {
   margin: auto;
 }
 
-.h2-titles, .h2-content {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+/* container */
+.h2-titles {
+  width: 100%;
+  padding: 1rem;
+
+  float: left;
+}
+
+.h3-contents {
+  width: 100%;
+  padding: 1rem;
+
+  float: right;
+}
+  
+
+@media (width > 50rem) {
+.h2-titles, .h3-contents {
+  width: 50%;
+ }
 }
 
 .about {
