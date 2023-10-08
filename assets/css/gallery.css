@@ -22,6 +22,11 @@ section {
   /* white-space: wrap; */
 }
 
+/* hover for cards */
+a:hover {
+  color: #e2ae77;
+}
+
 
 body {
   /* background-color: #858585; */
