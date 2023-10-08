@@ -10,6 +10,10 @@ h2 {
   text-align: center;
 }
 
+.about {
+  background-color: green;
+}
+
 .video-section {
   display: flex;
   justify-content: center;
