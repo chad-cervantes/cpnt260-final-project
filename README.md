@@ -9,7 +9,7 @@
 
 [Google Fonts](https://fonts.google.com/)
 - [Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)
-- [Zen Kaku Gothic New](https://fonts.google.com/specimen/Zen+Kaku+Gothic+New?query=zen)
+- [Homenajae](https://fonts.google.com/specimen/Homenaje?query=ming&sort=popularity)
 
 Hero Section CSS Images
 - [Background-image](https://sharpedgeshop.com/products/sg2-bunka-matte-165mm)
