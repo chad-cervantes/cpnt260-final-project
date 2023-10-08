@@ -39,7 +39,7 @@ a {
 
 /* nav hover */
 nav a:hover {
-  color: yellowgreen;
+  background-color: darkgoldenrod;
 }
 
 nav a:active {
