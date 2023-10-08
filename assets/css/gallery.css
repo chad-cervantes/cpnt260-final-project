@@ -27,6 +27,11 @@ a:hover {
   color: #e2ae77;
 }
 
+/* active link color for cards */
+a:active {
+  color: #fbdd64;
+}
+
 
 body {
   /* background-color: #858585; */
