@@ -22,8 +22,9 @@ p {
   margin: auto;
 }
 
-p {
-  font-family: ;
+.h2-titles, .h2-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .about {
