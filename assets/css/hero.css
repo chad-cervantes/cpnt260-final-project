@@ -130,6 +130,10 @@ nav ul {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
 } */
 
+.home {
+  background-color: green;
+}
+
 /* to make it mobile friendly */
 @media (width > 40rem) { 
   h1 {
