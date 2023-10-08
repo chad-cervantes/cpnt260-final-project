@@ -1,5 +1,7 @@
 body {
    margin: auto;
+
+   overflow-x: hidden;
 }
 
 h1 {
@@ -38,15 +40,6 @@ p {
   padding: 1rem;
 }
 
-@media (width > 50rem) {
-.our-story {
-  width: 50%;
- }
-
- h1 {
-  font-size: 100px;
- }
-}
 
 .about {
   background-color: #e95861;
@@ -56,6 +49,8 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  padding: 0.7rem;
 }
 
 .video {
@@ -63,8 +58,8 @@ p {
   justify-content: center;
   align-items: center;
 
-  padding: 1rem;
-
+  padding: 0.7rem;
+  
   margin: auto;
 }
 
@@ -84,4 +79,14 @@ nav ul {
 /* styled nav buttons typography */
 nav a {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+@media (width > 50rem) {
+.our-story {
+  width: 50%;
+ }
+
+ h1 {
+  font-size: 100px;
+ }
 }
