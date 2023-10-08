@@ -25,21 +25,21 @@ p {
 /* container */
 .our-story {
   width: 100%;
+  
   padding: 1rem;
 
   float: left;
 }
 
-.h3-contents {
+.h2-contents {
   width: 100%;
+  
   padding: 1rem;
-
-  float: right;
 }
   
 
 @media (width > 50rem) {
-.our-story, .h3-contents {
+.our-story, .h2-contents {
   width: 50%;
  }
 
