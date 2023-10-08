@@ -16,6 +16,10 @@ h2 {
 p {
   font-family: 'Homenaje', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 25px;
+
+  padding: 1rem;
+
+  margin: auto;
 }
 
 p {
@@ -36,6 +40,10 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  padding: 1rem;
+
+  margin: auto;
 }
 
 /* styled label */
