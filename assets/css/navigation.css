@@ -57,9 +57,17 @@ input:checked + ul {
   display: block;
 }
 
-/* nav buttons */
+/* primary nav buttons */
 nav a {
   color: white;
+
+  display: block;
+ 
+  text-align: center;
+ 
+  padding: 0.5rem;
+
+  border: 1px solid;
 }
 
 /* styled social navbar */
