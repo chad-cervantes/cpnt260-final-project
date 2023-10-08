@@ -43,7 +43,7 @@ nav a:hover {
 }
 
 nav a:active {
-  color: orange;
+  background-color: #fbdd64;
 }
 
 /* for label */
