@@ -117,7 +117,7 @@ nav a {
 }
 
 /*needed to make side navbar for mobile */
-@media screen and (width > 50rem) {
+@media screen and (width > 40em) {
   nav ul {
     display: flex;
     justify-content: space-evenly;
