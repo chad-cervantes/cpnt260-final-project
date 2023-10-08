@@ -50,6 +50,8 @@ p {
 label {
   font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
+
+  color: white;
 }
 
 /* styled nav ul typography */
