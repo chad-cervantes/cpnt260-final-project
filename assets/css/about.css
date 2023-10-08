@@ -31,7 +31,7 @@ p {
   float: left;
 }
 
-.h2-contents {
+.process {
   width: 100%;
 
   padding: 1rem;
@@ -39,7 +39,7 @@ p {
   
 
 @media (width > 50rem) {
-.our-story, .h2-contents {
+.our-story {
   width: 50%;
  }
 
