@@ -33,6 +33,7 @@ nav {
   margin: 0;
  }
 
+ /* deleted underline of primary nav buttons */
 a {
   text-decoration: none;
 }
