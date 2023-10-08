@@ -6,6 +6,7 @@ section {
   gap: 1rem; */
 
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 
   padding: 1rem;
