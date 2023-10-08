@@ -50,16 +50,15 @@ p {
   justify-content: center;
   align-items: center;
 
-  padding: 0.7rem;
+  padding: 1rem;
 }
 
 .video {
   display: flex;
   justify-content: center;
   align-items: center;
-
-  padding: 0.7rem;
   
+  width: 80%;
   margin: auto;
 }
 
