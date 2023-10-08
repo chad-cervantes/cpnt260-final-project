@@ -22,7 +22,7 @@ p {
   margin: auto;
 }
 
-/* container */
+/* our-story container */
 .our-story {
   width: 100%;
   
@@ -31,12 +31,12 @@ p {
   float: left;
 }
 
+/* process container */
 .process {
   width: 100%;
 
   padding: 1rem;
 }
-  
 
 @media (width > 50rem) {
 .our-story {
