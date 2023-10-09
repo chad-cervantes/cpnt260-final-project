@@ -29,6 +29,10 @@ Gallery CSS Images for cards
 - [Kiritsuke knife image](https://staysharpmtl.com/en/products/yoshikane-skd-nashiji-kiritsuke-gyuto-240mm-tagayasan)
 - [Burja knife image](https://osterrob.si/products/burja-noz-za-prsut-300-mm)
 
+External website for image gallery 
+- [Bunka knife link for it's single card](https://knifewear.com/collections/bunka/products/hatsukokoro-kumokage-aogami-kurouchi-damascus-bunka-180mm)
+  - Used this external website for bunka knife single card in the gallery 
+
 About Section video
 - [Japanese knife manufacturing process video](https://www.youtube.com/embed/Q-8dnpiEePk)
 
