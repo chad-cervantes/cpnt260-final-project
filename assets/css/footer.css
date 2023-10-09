@@ -22,6 +22,8 @@ footer p {
   background-color: darkgray;
 
   height: 45px;
+
+  margin-top: -70px;
 }
 
 /* styled .primary-nav */
@@ -30,8 +32,8 @@ footer p {
 
   display: block;
   
-  margin-bottom: -50px;
-  margin-top: -10px;
+  margin-bottom: -60px;
+  margin-top: -15px;
 
   line-height: 1.5;
   
