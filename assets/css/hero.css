@@ -43,6 +43,19 @@ h3{
   text-align: center;
 }
 
+main {
+  border: solid;
+  border-width: 50px;
+}
+
+main h3 {
+  color: black;
+}
+
+main p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 /* styled single card */
 .buy-card {
   max-width: 40ch;
