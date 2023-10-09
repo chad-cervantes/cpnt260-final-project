@@ -1,7 +1,7 @@
 body {
-   margin: auto;
+   margin: 0;
 
-   overflow-x: hidden;
+   /* overflow-x: hidden; */
 }
 
 h1 {
@@ -13,6 +13,10 @@ h2 {
   font-family: 'Homenajae', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 40px;
   text-align: center;
+}
+
+main {
+  overflow: hidden;
 }
 
 p {
