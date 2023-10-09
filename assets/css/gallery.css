@@ -47,8 +47,10 @@ h1 {
 }
 
 article {
-  width: 85%;
-  height: 450px;
+  /* width: 85%; */
+  width: 25vw;
+  /* height: 450px; */
+  height: 55vh;
   
   margin: auto;
   
