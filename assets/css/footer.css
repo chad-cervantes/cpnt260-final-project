@@ -30,9 +30,14 @@ footer p {
 .primary-nav {
   display: block;
   
-  margin: 0;
+  margin-bottom: -50px;
+
+  line-height: 1.5;
+  
   font-size: 10px;
-  letter-spacing: 2px;
+  
+  letter-spacing: 1px;
+  
   font-weight: 600;
 }
 
