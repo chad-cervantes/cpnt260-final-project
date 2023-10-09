@@ -13,7 +13,7 @@
 
 Hero Section CSS Images
 - [Background-image](https://sharpedgeshop.com/products/sg2-bunka-matte-165mm)
- - Note: The first background image I used for the hero section was replaced with another one. This second and current background image is from this same link here, just like the first background image I had.
+  - Note: The first background image I used for the hero section was replaced with another one. This second and current background image is from this same link here, just like the first background image I had.
 
 Gallery CSS Images for cards
 - [Gyuto knife image](https://www.chefslocker.co.uk/store/p87/WASakai.html)
@@ -39,3 +39,7 @@ Description of knives
 - [Information on sujihiki knife](https://www.koiknives.com/blogs/japanese-knives/sujihiki-knife-faqs)
 - [Information on burja knife](https://sharpedgeshop.com/products/sg2-burja-prosciutto-knife-300mm)
 - [Information on kiritsuke knife](https://chefsvisionknives.com/blogs/chefs-vision-blog/what-is-a-kiritsuke-knife-used-for-here-is-the-answer)
+
+### Above and Beyond 
+
+- I did a mobile hamburger menu toggle
