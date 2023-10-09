@@ -11,6 +11,8 @@ footer {
 
 /* styled footer p */
 footer p {
+  display: flex;
+  justify-content: flex-end;
   text-align: center;
 
   font-size: 15px;
