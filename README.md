@@ -31,3 +31,7 @@ Gallery CSS Images for cards
 
 About Section video
 - [Japanese knife manufacturing process video](https://www.youtube.com/embed/Q-8dnpiEePk)
+
+Description of knives
+- [Information website used](https://sharpedgeshop.com/blogs/knives-101/types-of-japanese-kitchen-knives)
+  - Only gave me descriptions of gyuto, santoku, bunka, nakiri, usuba, petty, yanagiba, & deba knives
