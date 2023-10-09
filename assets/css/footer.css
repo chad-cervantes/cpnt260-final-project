@@ -27,6 +27,7 @@ footer p {
   /* margin-bottom: 20px; */
 }
 
+/* styled .primary-nav */
 .primary-nav {
   background-color: darkgray;
 
@@ -44,6 +45,7 @@ footer p {
   font-weight: 600;
 }
 
+/* styled ul of primary-nav */
 .primary-nav ul {
   list-style: none;
 }
