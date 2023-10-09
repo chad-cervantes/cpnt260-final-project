@@ -73,6 +73,8 @@ nav a {
 
 /* styled social navbar */
 .social-nav {
+  background-color: darkgray;
+
   margin: auto;
 
   display: flex;
@@ -80,7 +82,7 @@ nav a {
 
   height: 15px;
 
-  margin-top: -40px;
+  margin-top: -60px;
 }
 
 /* styled social nav ul */
