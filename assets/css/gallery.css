@@ -78,8 +78,8 @@ article h2, h3, p{
 article img {
   display: block;
   
-  width: 85%;
-  height: 70%;
+  /* width: 85%; */
+  /* height: 70%; */
 
   aspect-ratio: 0.5;
   object-fit: cover;
