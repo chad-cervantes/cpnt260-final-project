@@ -35,3 +35,7 @@ About Section video
 Description of knives
 - [Information website used](https://sharpedgeshop.com/blogs/knives-101/types-of-japanese-kitchen-knives)
   - Only gave me descriptions of gyuto, santoku, bunka, nakiri, usuba, petty, yanagiba, & deba knives
+- [Information on garasuki knife](https://knifetoronto.com/products/sugimoto-western-cm-garasuki-170mm)
+- [Information on sujihiki knife](https://www.koiknives.com/blogs/japanese-knives/sujihiki-knife-faqs)
+- [Information on burja knife](https://sharpedgeshop.com/products/sg2-burja-prosciutto-knife-300mm)
+- [Information on kiritsuke knife](https://chefsvisionknives.com/blogs/chefs-vision-blog/what-is-a-kiritsuke-knife-used-for-here-is-the-answer)
