@@ -7,8 +7,6 @@ footer {
   background-color: darkgray;
 
   height: auto;
-
-  /* margin-bottom: 10px; */
 }
 
 /* styled footer p */
@@ -22,9 +20,6 @@ footer p {
   background-color: darkgray;
 
   height: 45px;
-  /* min-height: 100%; */
-
-  /* margin-bottom: 20px; */
 }
 
 /* styled .primary-nav */
@@ -49,3 +44,5 @@ footer p {
 .primary-nav ul {
   list-style: none;
 }
+
+
