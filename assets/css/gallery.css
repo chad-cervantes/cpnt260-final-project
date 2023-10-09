@@ -24,13 +24,13 @@ section {
 }
 
 /* hover for cards */
-a:hover {
+.card-color:hover {
   color: #52402d;
   filter: drop-shadow(2px 2px 2px #3c464e);
 }
 
 /* active link color for cards */
-a:active {
+.card-color:active {
   color: #fbdd64;
 }
 
