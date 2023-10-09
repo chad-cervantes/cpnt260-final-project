@@ -43,3 +43,7 @@ Description of knives
 ### Above and Beyond 
 
 - I did a mobile hamburger menu toggle
+
+### Important Notes
+
+- I made my logo using Figma
