@@ -1,8 +1,11 @@
 /* styled body */
 body {
    margin: 0;
+}
 
-   /* overflow-x: hidden; */
+/* styled main */
+main {
+  overflow: hidden;
 }
 
 /* styled h1 */
@@ -18,11 +21,6 @@ h2 {
   font-family: 'Homenajae', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 40px;
   text-align: center;
-}
-
-/* styled main */
-main {
-  overflow: hidden;
 }
 
 /* styled p */
