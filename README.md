@@ -50,4 +50,5 @@ Description of knives
 
 ### Important Notes
 
-- I made my logo using Figma
+[Figma logo](https://www.figma.com/file/Tig1HaHmc7ohUgYgi7kdld/CPNT-260-Final-Project-logo?type=design&node-id=0-1&mode=design&t=uC6NUTCpTpXAhTSJ-0)
+- I made my own logo using Figma
