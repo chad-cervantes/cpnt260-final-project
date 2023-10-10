@@ -1,11 +1,4 @@
-/* styled logo */
-.logo {
-  width: auto;
-  height: 50px;
-  object-fit: cover;
 
-  padding-left: 1.5ch;
-}
 
 /*styling nav */
 nav {
@@ -67,6 +60,15 @@ nav a {
   padding: 0.5rem;
 
   border: 1px solid;
+}
+
+/* styled logo */
+.logo {
+  width: auto;
+  height: 50px;
+  object-fit: cover;
+
+  padding-left: 1.5ch;
 }
 
 /* styled social navbar */
