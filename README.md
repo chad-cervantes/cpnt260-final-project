@@ -11,6 +11,9 @@
 - [Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)
 - [Homenajae](https://fonts.google.com/specimen/Homenaje?query=ming&sort=popularity)
 
+[FontAwesome](https://fontawesome.com/)
+  - Used FontAwesome for the social navigation icons
+
 Hero Section CSS Images
 - [Background-image](https://sharpedgeshop.com/products/sg2-bunka-matte-165mm)
   - Note: The first background image I used for the hero section was replaced with another one. This second and current background image is from this same link here, just like the first background image I had.
