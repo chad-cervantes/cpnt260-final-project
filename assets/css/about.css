@@ -5,7 +5,7 @@ body {
 
 /* styled main */
 main {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 /* styled h1 */
@@ -46,7 +46,7 @@ p {
 
 /* process container */
 .process {
-  width: 100%;
+  /* width: 100%; */
 
   padding: 1rem;
 
@@ -69,11 +69,13 @@ p {
 
 /* styled actual video */
 .video {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   
-  width: 95%;
+  width: 70%;
+  height: 90vh;
+  
   margin: auto;
 }
 
@@ -98,7 +100,7 @@ nav ul {
 /* mobile friendly */
 @media (width > 50rem) {
 .our-story {
-  width: 50%;
+  /* width: 50%; */
  }
 
  h1 {
