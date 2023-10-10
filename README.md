@@ -14,6 +14,9 @@
 [FontAwesome](https://fontawesome.com/)
   - Used FontAwesome for the social navigation icons
 
+[Hey Reliable](https://heyreliable.com/ultimate-google-font-pairings/)
+  - Used this site for additional colors
+
 Hero Section CSS Images
 - [Background-image](https://sharpedgeshop.com/products/sg2-bunka-matte-165mm)
   - Note: The first background image I used for the hero section was replaced with another one. This second and current background image is from this same link here, just like the first background image I had.
