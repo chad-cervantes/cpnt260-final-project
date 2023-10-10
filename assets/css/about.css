@@ -69,14 +69,17 @@ p {
 
 /* styled actual video */
 .video {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   
   width: 100vw;
   height: 40vh;
   
   margin: auto;
+
+  border: 10px solid rgba(158, 35, 35, 0.623);
+  border-radius: 10px;
 }
 
 /* styled label */
