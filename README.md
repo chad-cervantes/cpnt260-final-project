@@ -14,7 +14,7 @@
 [FontAwesome](https://fontawesome.com/)
   - Used FontAwesome for the social navigation icons
 
-[Nielsman Norman Group](https://www.nngroup.com/articles/footers/)
+[Nielsen Norman Group](https://www.nngroup.com/articles/footers/)
   - Read this article on what a doormat navigation should look like
 
 [Hey Reliable](https://heyreliable.com/ultimate-google-font-pairings/)
