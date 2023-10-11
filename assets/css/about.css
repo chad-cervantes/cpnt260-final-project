@@ -73,6 +73,11 @@ p {
   border-radius: 10px;
 }
 
+/* made footer paragraph move to the right */
+.copy-right {
+  width: 97vw;
+}
+
 /* styled nav ul typography */
 nav ul {
   font-size: 20px;
