@@ -12,7 +12,7 @@
 
 [Google Fonts](https://fonts.google.com/)
 - [Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)
-- [Homenajae](https://fonts.google.com/specimen/Homenaje?query=ming&sort=popularity)
+- [Homenaje](https://fonts.google.com/specimen/Homenaje?query=ming&sort=popularity)
 
 [FontAwesome](https://fontawesome.com/)
   - Used FontAwesome for the social navigation icons
