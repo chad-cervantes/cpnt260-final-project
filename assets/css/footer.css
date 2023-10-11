@@ -5,12 +5,6 @@ footer {
   margin: 0;
 
   background-color: darkgray;
-
-  min-height: 100%;
-
-  position: sticky;
-
-  bottom: 0;
 }
 
 /* styled footer p */
