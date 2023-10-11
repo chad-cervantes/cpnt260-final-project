@@ -3,11 +3,6 @@ body {
    margin: auto;
 }
 
-/* styled main */
-/* main {
-  overflow: hidden;
-} */
-
 /* styled h1 */
 h1 {
   text-align: center;
@@ -34,20 +29,14 @@ p {
 }
 
 /* our-story container */
-.our-story {
-  /* width: 100%; */
-  
+.our-story { 
   padding: 1rem;
-
-  /* float: left; */
 
   margin-top: -50px;
 }
 
 /* process container */
 .process {
-  /* width: 100%; */
-
   padding: 1rem;
 
   margin-top: -50px;
@@ -69,10 +58,6 @@ p {
 
 /* styled actual video */
 .video {
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
-  
   width: 100vw;
   height: 40vh;
   
@@ -82,30 +67,13 @@ p {
   border-radius: 10px;
 }
 
-/* styled label */
-/* label {
-  font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 20px;
-
-  color: white;
-} */
-
 /* styled nav ul typography */
 nav ul {
   font-size: 20px;
 }
 
-/* styled nav buttons typography */
-/* nav a {
-  font-family: Impact, 'Arial Narrow Bold', sans-serif;
-} */
-
 /* mobile friendly */
 @media (width > 50rem) {
-/* .our-story {
-  width: 50%;
- } */
-
  h1 {
   font-size: 100px;
  }
