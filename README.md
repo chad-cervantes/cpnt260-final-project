@@ -53,7 +53,8 @@ Description of knives
 ### Above and Beyond 
 
 - I did a mobile hamburger menu toggle
-- I made a sticky footer as well, out of curiosity 
+- [Sticky Footer Tutorial](https://www.youtube.com/watch?v=VSIB9zPYu4w)
+  - I made a sticky footer as well, out of curiosity; I used this video to help guide me
 
 ### Important Notes
 
