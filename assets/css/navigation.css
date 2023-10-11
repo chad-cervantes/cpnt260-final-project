@@ -46,11 +46,13 @@ nav a:active {
   background-color: darkorange;
 }
 
+/* For Menu Toggle */
 /* for label */
 input {
   display: none;
 }
 
+/* For Menu Toggle */
 /* ensures no checkboxes */
 input:checked + ul {
   display: block;
