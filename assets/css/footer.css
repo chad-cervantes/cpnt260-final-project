@@ -6,7 +6,11 @@ footer {
 
   background-color: darkgray;
 
-  height: auto;
+  min-height: auto;
+
+  position: sticky;
+
+  bottom: 0;
 }
 
 /* styled footer p */
