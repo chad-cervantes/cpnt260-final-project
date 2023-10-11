@@ -35,9 +35,7 @@ section {
 }
 
 body {
-  /* background-color: #858585; */
-  
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
   /* font-size: 20px; */
   line-height: 1.5;
 }
@@ -55,6 +53,7 @@ article {
   margin-bottom: 1rem;
   
   border: 3px solid black;
+  border-radius: 5%;
   
   padding: 1rem;
   /* padding-bottom: 10px; */
@@ -113,8 +112,6 @@ article img {
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
     padding: 1rem;
-
-    background-color: white;
   }
 
   .gyuto, .santoku, .nakiri, .bunka, .petty, .usuba, .deba, .yanagiba, .garasuki, .sujihiki, .kiritsuke, .burja {
