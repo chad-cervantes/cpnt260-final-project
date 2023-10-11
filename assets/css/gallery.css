@@ -1,54 +1,31 @@
-/* MAIN.CSS */
-/* Grid code */
-section {
-  /* display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem; */
-
-  /* display: flex;
-  justify-content: center;
-  flex-wrap: wrap; */
-
-  padding: 1rem;
-  gap: 1rem;
-}
-
-/* THEME.CSS */
+/* styled everything within the page */
 * {
   box-sizing: border-box;
 
   margin: 0;
-  /* padding: 0; */
-  
-  /* white-space: wrap; */
 }
 
-/* hover for cards */
-.card-color:hover {
-  color: #52402d;
-  filter: drop-shadow(2px 2px 2px #3c464e);
-}
-
-/* active link color for cards */
-.card-color:active {
-  color: #fbdd64;
-}
-
+/*styled body*/
 body {
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  /* font-size: 20px; */
   line-height: 1.5;
 }
 
+/* styled section */
+section {
+  padding: 1rem;
+  gap: 1rem;
+}
+
+/* styled h1 */
 h1 {
   text-align: center;
 }
 
+/* styled article */
 article {
-  /* width: 85%; */
   width: 91vw;
-  /* height: 450px; */
   height: 70vh;
+  
   margin: auto;
   margin-bottom: 1rem;
   
@@ -56,12 +33,11 @@ article {
   border-radius: 5%;
   
   padding: 1rem;
-  /* padding-bottom: 10px; */
-
+  
   text-align: center;
 }
 
-
+/* styled article h2, h3, p */
 article h2, h3, p{
   margin: auto;
  
@@ -74,23 +50,55 @@ article h2, h3, p{
   margin-bottom: 7px;
 }
 
-
+/* styled article images */
 article img {
   display: block;
   
-  /* width: 85%;
-  height: 70%; */
-
   aspect-ratio: 0.5;
   object-fit: cover;
 
   border: solid;
   border-radius: 10%;
-
-  white-space: pre-wrap;
 }
 
-/* made gallery class */
+/* styled h2 typography */
+article h2 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 30px;
+}
+
+/* styled h3 typography */
+article h3 {
+  font-family: 'Homenaje', sans-serif;
+  font-size: 20px;
+
+  line-height: 1.3;
+
+  color: black;
+}
+
+/* styled article p typography */
+article p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+/* styled nav ul typography */
+nav ul {
+  font-size: 20px;
+}
+/* hover for cards */
+.card-color:hover {
+  color: #52402d;
+  filter: drop-shadow(2px 2px 2px #3c464e);
+}
+
+/* active link color for cards */
+.card-color:active {
+  color: #fbdd64;
+}
+
+/* made gallery class to highlight current page*/
 .gallery {
   background-color: #e95861;
 }
@@ -123,53 +131,6 @@ article img {
     width: 30vw;
     height: 65vh;
   }
-}
-
-/* TYPOGRAPHY.CSS */
-/* styling h1 typography */
-h1 {
-  font-family: Impact, 'Arial Narrow Bold', sans-serif;
-  font-size: 50px;
-
-  color: black;
-}
-
-article h2 {
-  font-family: 'Noto Sans JP', sans-serif;
-  font-size: 30px;
-}
-
-/* styled h3 typography */
-article h3 {
-  font-family: 'Homenaje', sans-serif;
-  font-size: 20px;
-
-  line-height: 1.3;
-
-  color: black;
-}
-
-article p {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 20px;
-}
-
-/* styled label */
-/* label {
-  font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 20px;
-
-  color: white;
-} */
-
-/* styled nav ul typography */
-nav ul {
-  font-size: 20px;
-}
-
-/* styled nav buttons typography */
-nav a {
-  font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
 
 /* to make it mobile friendly */
