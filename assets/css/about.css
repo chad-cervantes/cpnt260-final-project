@@ -2,7 +2,7 @@
 body {
    margin: auto;
 
-   overflow-x: hidden;
+   /* overflow-x: hidden; */
 }
 
 /* styled h1 */
@@ -72,7 +72,7 @@ nav ul {
 
 /* made footer paragraph move to the right */
 .copy-right {
-  width: 97vw;
+  width: 86vw;
 }
 
 
@@ -85,6 +85,10 @@ nav ul {
  p {
   width: 50%;
  }
+
+ .copy-right {
+  width: 95vw;
+}
 
  .video {
   width:  50%;
