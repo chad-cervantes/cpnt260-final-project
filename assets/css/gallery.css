@@ -21,7 +21,7 @@ h1 {
   text-align: center;
 }
 
-/* styled article */
+/* single-card element */
 article {
   width: 91vw;
   height: 70vh;
@@ -37,7 +37,7 @@ article {
   text-align: center;
 }
 
-/* styled article h2, h3, p */
+/* single-card h2, h3, p */
 article h2, h3, p{
   margin: auto;
  
@@ -50,7 +50,7 @@ article h2, h3, p{
   margin-bottom: 7px;
 }
 
-/* styled article images */
+/* single-card images */
 article img {
   display: block;
   
@@ -77,7 +77,7 @@ article h3 {
   color: black;
 }
 
-/* styled article p typography */
+/* single-card p typography */
 article p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
@@ -87,6 +87,7 @@ article p {
 nav ul {
   font-size: 20px;
 }
+
 /* hover for cards */
 .card-color:hover {
   color: #52402d;
