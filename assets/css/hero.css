@@ -1,13 +1,8 @@
-/* LAYOUT.CSS */
 /* styling body */
 body {
-  /* font-size: 30px; */
-
   margin: auto;
 
   line-height: 1.5;
-
-  overflow-x: hidden;
 }
 
 /* styling title */
@@ -17,34 +12,13 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
 
-  /* width: 100vw; */
   height: 100vh;  
 }
 
 /* styled main */
 main {
   text-align: center;
-}
 
-/* styled h1 */
-h1 {
-  padding: 10px;
-  margin: 0;
-
-  text-align: center;
-
-  max-width: 85ch;
-}
-
-/* styled h2 */
-h3{
-  margin: 0;
-
-  text-align: center;
-}
-
-/* styled main element */
-main {
   border: solid;
   border-width: 50px;
 }
@@ -59,6 +33,46 @@ main p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/* styled h1 */
+h1 {
+  padding: 10px;
+  margin: 0;
+
+  text-align: center;
+
+  max-width: 85ch;
+
+  font-size: 50px;
+
+  color: white;
+  
+  margin-top: 120px;
+  
+  filter: drop-shadow(5px 10px 15px white);
+}
+
+/* styled h3 */
+h3 {
+  margin: 0;
+
+  text-align: center;
+
+  font-family: 'Homenaje', sans-serif;
+  font-size: 25px;
+
+  color: whitesmoke;
+}
+
+/* styled label */
+label {
+  font-size: 20px;
+}
+
+/* styled nav ul typography */
+nav ul {
+  font-size: 20px;
+}
+
 /* styled single card */
 .buy-card {
   max-width: 40ch;
@@ -69,18 +83,13 @@ main p {
   color: black;
 }
 
-/* styled label */
-/* label {
-  color: white;
-
-  padding: 1rem;
-} */
-
 /* styled call-to-action */
 .cta {
   padding: 15px 30px 15px 30px;
+  
   margin: auto;
   margin-top: 5px;
+  
   width: 10vw;
   height: 4vh;
 
@@ -110,39 +119,6 @@ main p {
   filter: drop-shadow(5px 5px 5px gold);
   
   background-color: #d7c6ab;
-}
-
-/* TYPOGRAPHY.CSS */
-
-/* styling h1 typography */
-h1 {
-  /* font-family: 'Noto Sans JP', sans-serif; */
-  font-size: 50px;
-
-  color: white;
-  
-  margin-top: 120px;
-  
-  filter: drop-shadow(5px 10px 15px white);
-}
-
-/* styled h3 typography */
-h3 {
-  font-family: 'Homenaje', sans-serif;
-  font-size: 25px;
-
-  color: whitesmoke;
-}
-
-/* styled label */
-label {
-  /* font-family: Impact, 'Arial Narrow Bold', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-  font-size: 20px;
-}
-
-/* styled nav ul typography */
-nav ul {
-  font-size: 20px;
 }
 
 /* made background-color for currently being on home page */
