@@ -53,6 +53,7 @@ Description of knives
 ### Above and Beyond 
 
 - I did a mobile hamburger menu toggle
+- I made a sticky footer as well, out of curiosity 
 
 ### Important Notes
 
