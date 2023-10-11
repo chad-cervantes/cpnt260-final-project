@@ -30,6 +30,12 @@ p {
   width: 50%;
 }
 
+/* styled nav ul typography */
+nav ul {
+  font-size: 20px;
+}
+
+
 /* our-story container */
 .our-story { 
   padding: 1rem;
@@ -78,10 +84,6 @@ p {
   width: 97vw;
 }
 
-/* styled nav ul typography */
-nav ul {
-  font-size: 20px;
-}
 
 /* mobile friendly */
 @media (width > 50rem) {
