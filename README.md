@@ -7,6 +7,9 @@
 
 ### Attributions
 
+[Google Translate](https://translate.google.ca/)
+  - Used Google Translate to translate "Star Eye" from English to Japanese, which is "Sutāai" for the title of the company
+
 [Google Fonts](https://fonts.google.com/)
 - [Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)
 - [Homenajae](https://fonts.google.com/specimen/Homenaje?query=ming&sort=popularity)
