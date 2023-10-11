@@ -154,7 +154,7 @@ nav a {
   input:checked + ul {
     display: none;
   }
-
+  
   .social-nav {
     gap: 1rem;
 
